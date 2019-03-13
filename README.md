@@ -1,2 +1,1 @@
-# ExerciseTracker
-FCC Exercise Tracker
+# Backend Challenges boilerplate - package.json
